@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Fri 27 Mar 2015 01:59:12 AM PDT
+
+BeginCmp
+TimeStamp = /5515110B;
+Reference = BLE1;
+ValeurCmp = RFDUINO;
+IdModule  = RFD22301;
+EndCmp
+
+BeginCmp
+TimeStamp = /55152170;
+Reference = U1;
+ValeurCmp = RFDUINO_SHEILD;
+IdModule  = pin_array_6x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515147E;
+Reference = U2;
+ValeurCmp = MAX_LSE;
+IdModule  = pin_array_13x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /551519C4;
+Reference = U3;
+ValeurCmp = RFDUINO_IO;
+IdModule  = SIL-8;
+EndCmp
+
+EndListe
