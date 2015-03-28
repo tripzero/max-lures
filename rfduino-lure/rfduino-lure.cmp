@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Fri 27 Mar 2015 01:59:12 AM PDT
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Fri 27 Mar 2015 10:01:57 PM PDT
 
 BeginCmp
 TimeStamp = /5515110B;
@@ -8,10 +8,10 @@ IdModule  = RFD22301;
 EndCmp
 
 BeginCmp
-TimeStamp = /55152170;
+TimeStamp = /5516349D;
 Reference = U1;
-ValeurCmp = RFDUINO_SHEILD;
-IdModule  = pin_array_6x2;
+ValeurCmp = RFDUINO_IO;
+IdModule  = SIL-8;
 EndCmp
 
 BeginCmp
@@ -22,10 +22,10 @@ IdModule  = pin_array_13x2;
 EndCmp
 
 BeginCmp
-TimeStamp = /551519C4;
-Reference = U3;
-ValeurCmp = RFDUINO_IO;
-IdModule  = SIL-8;
+TimeStamp = /55163475;
+Reference = USB1;
+ValeurCmp = USB-PROGRAMMER;
+IdModule  = SIL-6;
 EndCmp
 
 EndListe
